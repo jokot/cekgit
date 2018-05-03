@@ -1,4 +1,0 @@
-text pertama
-text kedua
-tex ketiga
-
